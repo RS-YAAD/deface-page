@@ -59,3 +59,26 @@ This repository for  deface script page
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/.html">Download File</a>
 
 </details>
+
+<details id="missing-code-coverage">
+  <summary><h3>How To Edit</h3></summary>
+<li>Download deface file</li>
+<li>Install HTML editor APK</li>
+<li>Open APK & open file</li>
+<li>Find RS-YAAD & replace</li>
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary><h3>Collect From</h3></summary>
+<a href="https://deface.prinsh.com">Prins</a>
+</details>
+
+
+<details id="missing-code-coverage">
+  <summary><h3>CONTACT ME</h3></summary>
+<a href="https://www.facebook.com/its.rs.yaad">FACEBOOK</a>
+ 
+ <a href="its.rs.yaad@gmail.com">GMAIL</a>
+
+</details>
