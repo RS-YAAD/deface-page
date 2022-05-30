@@ -18,15 +18,13 @@ This repository for  deface script page
 #torch
 <img src="https://github.com/RS-YAAD/deface-page/blob/main/ss/Screenshot_20220530-232912.jpg" alt="">
 
-<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/torch.html?">View Page</a><br><br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/torch.html">View Code</a><br><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/torch.html">Download File</a>
+<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/torch.html?">View Page</a><br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/torch.html">View Code</a><br><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/torch.html">Download File</a>
 
 
 #vibrate
 <img src="https://github.com/RS-YAAD/deface-page/blob/main/ss/Screenshot_20220530-235625.jpg" alt="vibrate">
 
-<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/vibrate.html?">View Page</a><br>
-<br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/vibrate.html">View Code</a><br>
-<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/vibrate.html">Download File</a>
+<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/vibrate.html?">View Page</a><br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/vibrate.html">View Code</a><br><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/vibrate.html">Download File</a>
 
 
 #animation
@@ -44,9 +42,7 @@ This repository for  deface script page
 #Animation 3
 <img src="https://github.com/RS-YAAD/deface-page/blob/main/ss/Screenshot_20220531-000602.jpg" alt="a3">
 
-<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/animation3.html?">View Page</a><br>
-<br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/animation3.html">View Code</a><br>
-<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/animation3.html">Download File</a>
+<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/animation3.html?">View Page</a><br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/animation3.html">View Code</a><br><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/animation3.html">Download File</a>
 
 
 #Animation 4
