@@ -3,6 +3,12 @@ This repository for  deface script page
 
 <details id="missing-code-coverage">
   <summary><h3>Screen Shot & File Download Link</h3></summary>
+#cat dance
+<img src="https://github.com/RS-YAAD/deface-page/blob/main/ss/Screenshot_20220531-091443.jpg" alt="cat">
+
+<a href="https://htmlpreview.github.io/?https://github.com/RS-YAAD/deface-page/blob/main/cat.html?">View Page</a><br><a href="https://raw.githubusercontent.com/RS-YAAD/deface-page/main/cat.html">View Code</a><br><a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RS-YAAD/deface-page/blob/main/cat.html">Download File</a>
+
+
 #404
 <img src="https://github.com/RS-YAAD/deface-page/blob/main/ss/Screenshot_20220530-192944.jpg" alt="404">
 
